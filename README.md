@@ -49,3 +49,5 @@ react
 <br>
 
 git/github
+<br>
+깃을 수행하기 위핸 터미널 명령어: https://gentle-cornucopia-d03.notion.site/519aa94ed76c4916aa26ae17cdb9e2e8
