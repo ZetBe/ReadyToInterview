@@ -32,7 +32,7 @@ html/css
 
 <br>
 
-javascript
+javascript: https://gentle-cornucopia-d03.notion.site/0cc7f5f6e6754beb97a2708bc153512d
 
 <br>
 
